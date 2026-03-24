@@ -3,7 +3,7 @@ Contributors: tiktokforbusiness, woocommerce, automattic
 Tags: tiktok
 Requires at least: 5.7.0
 Tested up to: 6.7.2
-Stable tag: 1.3.8
+Stable tag: 1.3.9
 Requires PHP: 7.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -159,6 +159,8 @@ Click [here](https://ads.tiktok.com/help/article?aid=9550) for a detailed overvi
 Please [open a support ticket](https://woo.com/contact-us/).
 
 == Changelog ==
+2026-03-24 - Version 1.3.9
+* Update - Add fallback for PII coverage for purchase event.
 
 2026-02-27 - Version 1.3.8
 * Update - Added notice of Tiktok Shop feature deprecation, and removed shop related feature information.
